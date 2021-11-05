@@ -101,6 +101,19 @@
             app:popEnterAnim="@anim/slide_in_left"
             app:popExitAnim="@anim/slide_out_right" />
     </fragment>
+
+    <fragment
+        android:id="@+id/loginNewFragment"
+        android:name="me.hgj.jetpackmvvm.demo.ui.fragment.login.LoginNewFragment"
+        android:label="LoginNewFragment">
+<!--        <action-->
+<!--            android:id="@+id/action_loginFragment_to_registerFrgment"-->
+<!--            app:destination="@id/registerFrgment"-->
+<!--            app:enterAnim="@anim/slide_in_right"-->
+<!--            app:exitAnim="@anim/slide_out_left"-->
+<!--            app:popEnterAnim="@anim/slide_in_left"-->
+<!--            app:popExitAnim="@anim/slide_out_right" />-->
+    </fragment>
     <fragment
         android:id="@+id/registerFrgment"
         android:name="me.hgj.jetpackmvvm.demo.ui.fragment.login.RegisterFrgment"
@@ -265,6 +278,14 @@
     <action
         android:id="@+id/action_to_loginFragment"
         app:destination="@id/loginFragment"
+        app:enterAnim="@anim/slide_in_right"
+        app:exitAnim="@anim/slide_out_left"
+        app:popEnterAnim="@anim/slide_in_left"
+        app:popExitAnim="@anim/slide_out_right" />
+
+    <action
+        android:id="@+id/action_to_loginNewFragment"
+        app:destination="@id/loginNewFragment"
         app:enterAnim="@anim/slide_in_right"
         app:exitAnim="@anim/slide_out_left"
         app:popEnterAnim="@anim/slide_in_left"

@@ -31,4 +31,169 @@
     <string name="open_project">开源项目</string>
     <string name="open_project_tips">项目中用到的开源库</string>
     <string name="error_occurred">不好意思App翻车了。\n请拿已复制好的错误日志去啪啪啪得打作者的脸</string>
+
+
+
+    <string name="app_exit_message">再按一次退出自在装服务平台！</string>
+
+    <!--login-->
+    <string name="login_submit">登\t\t录</string>
+    <string name="login_title">登录</string>
+    <string name="login_hint_auth_code">请输入您的密码</string>
+    <string name="login_hint_mobile">请输入您的账号</string>
+    <string name="login_digits">1234567890qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM.,!~`:,.()-=+_</string>
+    <string name="login_logout">注销</string>
+    <string name="digits_numABC">1234567890qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM</string>
+    <string name="digits_phone">1234567890</string>
+    <string name="digits_num">0123456789.</string>
+    <string name="toast_error_system">系统出错</string>
+
+    <string name="tab_index_title">首页</string>
+    <string name="tab_category_title">分类</string>
+    <string name="tab_cart_title">购物车</string>
+    <string name="tab_mine_title">我的</string>
+    <string name="toast_zxz">装修中，敬请期待~</string>
+    <string name="shutdown_introduce">1、施工天数计划，是系统根据客户装修需求及开工日期推算的项目计划完成时间，因实际施工中存在诸多未知因素，而导致完工时间可能会有相应变化。\n
+2、因客户原因或客户原因导致项目延期的，不纳入延期赔偿范畴，包括物业证没办理下来、小区停水停电、周末不让施工、客户中途修改方案、客户自购材料配合不及时等因素。\n
+3、因多维家装原因导致停工的，且最终实际施工天数超过项目总工期，导致延期的，在竣工后多维家装会对客户进行相应赔偿，包括缺工人、缺材料、工人请假等因素。\n
+    </string>
+    <string name="toast_tfysd_zbnxg">该套房已死单，暂不能做修改</string>
+    <string name="errcode_success">发送成功</string>
+    <string name="errcode_cancel">发送取消</string>
+    <string name="errcode_deny">发送被拒绝</string>
+    <string name="errcode_unsupported">不支持错误</string>
+    <string name="errcode_unknown">发送返回</string>
+
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="rationale_camera">This app needs access to your camera so you can take pictures.</string>
+    <string name="rationale_location_contacts">This app needs access to your location and contacts to know where and who you are.</string>
+    <string name="rationale_sms">This app needs access to your sms to read all your great messages.</string>
+
+    <string name="camera">Camera</string>
+    <string name="location_and_contacts">Location and Contacts</string>
+    <string name="sms">SMS</string>
+
+    <string name="string_tv_top_bar_back">返回</string>
+    <string name="string_tv_setting">WebView页面</string>
+
+    <string name="load_error">获取数据失败，请稍后再试</string>
+
+
+    <array name="banner_url">
+        <item>http://ww4.sinaimg.cn/large/006uZZy8jw1faic1xjab4j30ci08cjrv.jpg</item>
+        <item>http://ww4.sinaimg.cn/large/006uZZy8jw1faic21363tj30ci08ct96.jpg</item>
+        <item>http://ww4.sinaimg.cn/large/006uZZy8jw1faic259ohaj30ci08c74r.jpg</item>
+        <item>http://ww4.sinaimg.cn/large/006uZZy8jw1faic2b16zuj30ci08cwf4.jpg</item>
+        <item>http://ww4.sinaimg.cn/large/006uZZy8jw1faic2e7vsaj30ci08cglz.jpg</item>
+    </array>
+
+    <array name="banner_title">
+        <item>51巅峰钜惠</item>
+        <item>十大星级品牌联盟，全场2折起</item>
+        <item>生命不是要超越别人，而是要超越自己。</item>
+        <item>己所不欲，勿施于人。——孔子</item>
+        <item>嗨购5折不要停</item>
+    </array>
+
+
+    <string name="navigation_drawer_open">navigation_drawer_open</string>
+    <string name="navigation_drawer_close">navigation_drawer_close</string>
+
+
+    <string name="para1">1. Moon\n\nThe Moon is a barren, rocky world without air and water. It has dark lava plain on its surface. The Moon is filled wit craters. It has no light of its own. It gets its light from the Sun. The Moo keeps changing its shape as it moves round the Earth. It spins on its axis in 27.3 days stars were named after the Edwin Aldrin were the first ones to set their foot on the Moon on 21 July 1969 They reached the Moon in their space craft named Apollo II.\n\n2. Sun\n\nThe sun is a huge ball of gases. It has a diameter of 1,392,000 km. It is so huge that it can hold millions of planets inside it. The Sun is mainly made up of hydrogen and helium gas. The surface of the Sun is known as the photosphere. The photosphere is surrounded by a thin layer of gas known as the chromospheres. Without the Sun, there would be no life on Earth. There would be no plants, no animals and no human beings. As, all the living things on Earth get their energy from the Sun for their survival.\n\n3. Solar System\n\nThe Solar System consists of the Sun Moon and Planets. It also consists of comets, meteoroids and asteroids. The Sun is the largest member of the Solar System. In order of fDistance from the Sun, the planets are Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune and Pluto; the dwarf planet. The Sun is at the centre of the Solar System and the planets, asteroids, comets and meteoroids revolve around it.\n\n4. Mahabharata\n\nThe Mahabharata is a story about a great battle between the Kauravas and the Pandavas. The battle was fought in Kurukshetra near Delhi. Many kings and princes took part in the battle. The Pandavas defeated the Kauravas. The Bhagvad Gita is a holy book of the Hindus. It is a part of the Mahabharata. Then, Lord Rama, with the help of It is a book of collection of teachings of Lord Krishna to Arjuna in the battlefield. It is the longest epic in the world.\n\n5. Ramayana\n\nThe Ramayana is a story of Lord Rama written by the SageValmiki. Lord Rama, the prince of Ayodhya, in order to help his father Dasharatha went to exile for fourteen years. His wife, Sita and his younger brother Lakshmana also went with him. He went through many difficulties in the forest. One day Ravana, the king of Lanka carried away Sita with him. Then, Lord Rama, with the help of Hanumana, defeated and killed Ravana; Sita, Rama and Lakshmana returned to Ayod hya after their exile.\n\n6. The Taj Mahal\n\nThe Taj Mahal is a beautiful monument built in 1631 by an Emperor named Shah Jahan in memory of his wife Mumtaz Mahal. It is situated on the banks of river Yamuna at Agra. It looks beautiful in the moonlight. The Taj Mahal is made up of white marble. In front of the monument, there is a beautiful garden known as the Charbagh. Inside the monument, there are two tombs. These tombs are of Shah Jahan and his wife Mumtaz Mahal. The Taj Mahal is considered as one of the Seven Wonders of the World. Many tourists come to see this beautiful structure from different parts of the world.</string>
+    <string name="para2">7. Delhi\n\nDelhi is the capital of India. It is situated on the banks of the river Yamuna. It is surrounded by Haryanaand Uttar Pradesh. It has some of the famous buildings and monuments such as the Qutub Minar, Reu Fort, Lotus Temple, Akshardham Temple etc. Some of the monuments are hundreds of years old. Apart from this, there is the Parliament House, the Central Secretariat and the famous Connaught place. Delhi is a beautiful city. But, it is becoming very crowded and polluted. I love Delhi a lot.\n\n8. A Snake Charmer\n\nA snake charmer is a person who moves the streets with different types of the banks of the river Yamuna. It is snakes in his basket. He goes from one place to another to show various types of snakes and their tricks. He carries a pipe with which he plays music and snakes dance to his tune. He usually wears a colourful dress. The job of a snake charmer is quite dangerous. Some snakes are quite poisonous and can even bite him. It is not an easy task to catch and train them for the shows.\n\n9. Street Beggar\n\nA street beggar can be seen everywhere; at the bus stop, railway stations, religious places, markets etc. Some beggars are crippled, lame and some are blind. They are unable to earn their livelihood. Whereas some are healthy and they do not deserve our sympathy. We should see that they take up some profession. They should not be allowed to beg. On my way to school I see a beggar daily. He wears old rags. He is partially blind. I feel pity seeing him but I can\'t help it I can only pray to God to help him to earn his livelihood.\n\n10. Doctor\n\nThe doctor is a person who looks after the sick people and prescribes medicines so that the patient recovers fast. In order to become a doctor, a person has to study medicine. Doctors lead a hard life. Their life is very busy. They get up early in the morning and go to the hospital. They work without taking a break. They always remain polite so that patients feel comfortable with them. Since doctors work so hard we must realise their value.\n\n11. Hawker\n\nA hawker is a person who moves from one place to another and sell their goods, by shouting on the streets. They work hard throughout the day. They move on the street on their bicycle and sometimes on foot and sell their products. We can see hawkers everywhere. They move everywhere selling their goods without caring about the weather. There is a hawker who sells vegetables on his bicycle in our locality. His name is Manoj. He brings fresh vegetables at a very reasonable price. He is a nice and an honest hawker.\n\n12. Farmer\n\nIndia is an agricultural country. Most of the people live in villages and are farmers. They grow cereals, pulses, vegetables and fruits. The farmers lead a tough life. They get up early in the morning and go to the fields. They stay and work on the farm late till evening. The farmers usually live in kuchcha houses. Though, they work hard they remain poor. Farmers eat simple food; wear simple clothes and rear animals like cows, buffaloes and oxen. Without them there would be no cereals for us to eat. They play an important role in the growth and economy of a country.</string>
+    <string name="para3">1. Moon\n\nThe Moon is a barren, rocky world without air and water. It has dark lava plain on its surface. The Moon is filled wit craters. It has no light of its own. It gets its light from the Sun. The Moo keeps changing its shape as it moves round the Earth. It spins on its axis in 27.3 days stars were named after the Edwin Aldrin were the first ones to set their foot on the Moon on 21 July 1969 They reached the Moon in their space craft named Apollo II.\n\n2. Sun\n\nThe sun is a huge ball of gases. It has a diameter of 1,392,000 km. It is so huge that it can hold millions of planets inside it. The Sun is mainly made up of hydrogen and helium gas. The surface of the Sun is known as the photosphere. The photosphere is surrounded by a thin layer of gas known as the chromospheres. Without the Sun, there would be no life on Earth. There would be no plants, no animals and no human beings. As, all the living things on Earth get their energy from the Sun for their survival.\n\n3. Solar System\n\nThe Solar System consists of the Sun Moon and Planets. It also consists of comets, meteoroids and asteroids. The Sun is the largest member of the Solar System. In order of fDistance from the Sun, the planets are Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune and Pluto; the dwarf planet. The Sun is at the centre of the Solar System and the planets, asteroids, comets and meteoroids revolve around it.\n\n4. Mahabharata\n\nThe Mahabharata is a story about a great battle between the Kauravas and the Pandavas. The battle was fought in Kurukshetra near Delhi. Many kings and princes took part in the battle. The Pandavas defeated the Kauravas. The Bhagvad Gita is a holy book of the Hindus. It is a part of the Mahabharata. Then, Lord Rama, with the help of It is a book of collection of teachings of Lord Krishna to Arjuna in the battlefield. It is the longest epic in the world.\n\n5. Ramayana\n\nThe Ramayana is a story of Lord Rama written by the SageValmiki. Lord Rama, the prince of Ayodhya, in order to help his father Dasharatha went to exile for fourteen years. His wife, Sita and his younger brother Lakshmana also went with him. He went through many difficulties in the forest. One day Ravana, the king of Lanka carried away Sita with him. Then, Lord Rama, with the help of Hanumana, defeated and killed Ravana; Sita, Rama and Lakshmana returned to Ayod hya after their exile.\n\n6. The Taj Mahal\n\nThe Taj Mahal is a beautiful monument built in 1631 by an Emperor named Shah Jahan in memory of his wife Mumtaz Mahal. It is situated on the banks of river Yamuna at Agra. It looks beautiful in the moonlight. The Taj Mahal is made up of white marble. In front of the monument, there is a beautiful garden known as the Charbagh. Inside the monument, there are two tombs. These tombs are of Shah Jahan and his wife Mumtaz Mahal. The Taj Mahal is considered as one of the Seven Wonders of the World. Many tourists come to see this beautiful structure from different parts of the world.</string>
+    <string name="para4">7. Delhi\n\nDelhi is the capital of India. It is situated on the banks of the river Yamuna. It is surrounded by Haryanaand Uttar Pradesh. It has some of the famous buildings and monuments such as the Qutub Minar, Reu Fort, Lotus Temple, Akshardham Temple etc. Some of the monuments are hundreds of years old. Apart from this, there is the Parliament House, the Central Secretariat and the famous Connaught place. Delhi is a beautiful city. But, it is becoming very crowded and polluted. I love Delhi a lot.\n\n8. A Snake Charmer\n\nA snake charmer is a person who moves the streets with different types of the banks of the river Yamuna. It is snakes in his basket. He goes from one place to another to show various types of snakes and their tricks. He carries a pipe with which he plays music and snakes dance to his tune. He usually wears a colourful dress. The job of a snake charmer is quite dangerous. Some snakes are quite poisonous and can even bite him. It is not an easy task to catch and train them for the shows.\n\n9. Street Beggar\n\nA street beggar can be seen everywhere; at the bus stop, railway stations, religious places, markets etc. Some beggars are crippled, lame and some are blind. They are unable to earn their livelihood. Whereas some are healthy and they do not deserve our sympathy. We should see that they take up some profession. They should not be allowed to beg. On my way to school I see a beggar daily. He wears old rags. He is partially blind. I feel pity seeing him but I can\'t help it I can only pray to God to help him to earn his livelihood.\n\n10. Doctor\n\nThe doctor is a person who looks after the sick people and prescribes medicines so that the patient recovers fast. In order to become a doctor, a person has to study medicine. Doctors lead a hard life. Their life is very busy. They get up early in the morning and go to the hospital. They work without taking a break. They always remain polite so that patients feel comfortable with them. Since doctors work so hard we must realise their value.\n\n11. Hawker\n\nA hawker is a person who moves from one place to another and sell their goods, by shouting on the streets. They work hard throughout the day. They move on the street on their bicycle and sometimes on foot and sell their products. We can see hawkers everywhere. They move everywhere selling their goods without caring about the weather. There is a hawker who sells vegetables on his bicycle in our locality. His name is Manoj. He brings fresh vegetables at a very reasonable price. He is a nice and an honest hawker.\n\n12. Farmer\n\nIndia is an agricultural country. Most of the people live in villages and are farmers. They grow cereals, pulses, vegetables and fruits. The farmers lead a tough life. They get up early in the morning and go to the fields. They stay and work on the farm late till evening. The farmers usually live in kuchcha houses. Though, they work hard they remain poor. Farmers eat simple food; wear simple clothes and rear animals like cows, buffaloes and oxen. Without them there would be no cereals for us to eat. They play an important role in the growth and economy of a country.</string>
+    <string name="para5">1. Moon\n\nThe Moon is a barren, rocky world without air and water. It has dark lava plain on its surface. The Moon is filled wit craters. It has no light of its own. It gets its light from the Sun. The Moo keeps changing its shape as it moves round the Earth. It spins on its axis in 27.3 days stars were named after the Edwin Aldrin were the first ones to set their foot on the Moon on 21 July 1969 They reached the Moon in their space craft named Apollo II.\n\n2. Sun\n\nThe sun is a huge ball of gases. It has a diameter of 1,392,000 km. It is so huge that it can hold millions of planets inside it. The Sun is mainly made up of hydrogen and helium gas. The surface of the Sun is known as the photosphere. The photosphere is surrounded by a thin layer of gas known as the chromospheres. Without the Sun, there would be no life on Earth. There would be no plants, no animals and no human beings. As, all the living things on Earth get their energy from the Sun for their survival.\n\n3. Solar System\n\nThe Solar System consists of the Sun Moon and Planets. It also consists of comets, meteoroids and asteroids. The Sun is the largest member of the Solar System. In order of fDistance from the Sun, the planets are Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune and Pluto; the dwarf planet. The Sun is at the centre of the Solar System and the planets, asteroids, comets and meteoroids revolve around it.\n\n4. Mahabharata\n\nThe Mahabharata is a story about a great battle between the Kauravas and the Pandavas. The battle was fought in Kurukshetra near Delhi. Many kings and princes took part in the battle. The Pandavas defeated the Kauravas. The Bhagvad Gita is a holy book of the Hindus. It is a part of the Mahabharata. Then, Lord Rama, with the help of It is a book of collection of teachings of Lord Krishna to Arjuna in the battlefield. It is the longest epic in the world.\n\n5. Ramayana\n\nThe Ramayana is a story of Lord Rama written by the SageValmiki. Lord Rama, the prince of Ayodhya, in order to help his father Dasharatha went to exile for fourteen years. His wife, Sita and his younger brother Lakshmana also went with him. He went through many difficulties in the forest. One day Ravana, the king of Lanka carried away Sita with him. Then, Lord Rama, with the help of Hanumana, defeated and killed Ravana; Sita, Rama and Lakshmana returned to Ayod hya after their exile.\n\n6. The Taj Mahal\n\nThe Taj Mahal is a beautiful monument built in 1631 by an Emperor named Shah Jahan in memory of his wife Mumtaz Mahal. It is situated on the banks of river Yamuna at Agra. It looks beautiful in the moonlight. The Taj Mahal is made up of white marble. In front of the monument, there is a beautiful garden known as the Charbagh. Inside the monument, there are two tombs. These tombs are of Shah Jahan and his wife Mumtaz Mahal. The Taj Mahal is considered as one of the Seven Wonders of the World. Many tourists come to see this beautiful structure from different parts of the world.</string>
+    <string name="para6">7. Delhi\n\nDelhi is the capital of India. It is situated on the banks of the river Yamuna. It is surrounded by Haryanaand Uttar Pradesh. It has some of the famous buildings and monuments such as the Qutub Minar, Reu Fort, Lotus Temple, Akshardham Temple etc. Some of the monuments are hundreds of years old. Apart from this, there is the Parliament House, the Central Secretariat and the famous Connaught place. Delhi is a beautiful city. But, it is becoming very crowded and polluted. I love Delhi a lot.\n\n8. A Snake Charmer\n\nA snake charmer is a person who moves the streets with different types of the banks of the river Yamuna. It is snakes in his basket. He goes from one place to another to show various types of snakes and their tricks. He carries a pipe with which he plays music and snakes dance to his tune. He usually wears a colourful dress. The job of a snake charmer is quite dangerous. Some snakes are quite poisonous and can even bite him. It is not an easy task to catch and train them for the shows.\n\n9. Street Beggar\n\nA street beggar can be seen everywhere; at the bus stop, railway stations, religious places, markets etc. Some beggars are crippled, lame and some are blind. They are unable to earn their livelihood. Whereas some are healthy and they do not deserve our sympathy. We should see that they take up some profession. They should not be allowed to beg. On my way to school I see a beggar daily. He wears old rags. He is partially blind. I feel pity seeing him but I can\'t help it I can only pray to God to help him to earn his livelihood.\n\n10. Doctor\n\nThe doctor is a person who looks after the sick people and prescribes medicines so that the patient recovers fast. In order to become a doctor, a person has to study medicine. Doctors lead a hard life. Their life is very busy. They get up early in the morning and go to the hospital. They work without taking a break. They always remain polite so that patients feel comfortable with them. Since doctors work so hard we must realise their value.\n\n11. Hawker\n\nA hawker is a person who moves from one place to another and sell their goods, by shouting on the streets. They work hard throughout the day. They move on the street on their bicycle and sometimes on foot and sell their products. We can see hawkers everywhere. They move everywhere selling their goods without caring about the weather. There is a hawker who sells vegetables on his bicycle in our locality. His name is Manoj. He brings fresh vegetables at a very reasonable price. He is a nice and an honest hawker.\n\n12. Farmer\n\nIndia is an agricultural country. Most of the people live in villages and are farmers. They grow cereals, pulses, vegetables and fruits. The farmers lead a tough life. They get up early in the morning and go to the fields. They stay and work on the farm late till evening. The farmers usually live in kuchcha houses. Though, they work hard they remain poor. Farmers eat simple food; wear simple clothes and rear animals like cows, buffaloes and oxen. Without them there would be no cereals for us to eat. They play an important role in the growth and economy of a country.</string>
+    <string name="github_link">Github Link</string>
+    <string name="auto_hide_badge">Auto hide badge</string>
+    <string name="toggle_hide">Toggle Hide</string>
+    <string name="toggle_badge">Toggle Badge</string>
+
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="placeholder_lorem_ipsum">Lorem ipsum dolor set it</string>
+    <string-array name="chinese_week_string_array">
+        <item>日</item>
+        <item>一</item>
+        <item>二</item>
+        <item>三</item>
+        <item>四</item>
+        <item>五</item>
+        <item>六</item>
+    </string-array>
+
+    <string name="ticket_available">可使用</string>
+    <string name="ticket_used">已使用</string>
+    <string name="ticket_out_of_data">已过期</string>
+    <string name="toast_no_develop">开发中，敬请期待</string>
+    <string name="toast_not_dev">开发中，敬请期待</string>
+    <!--    <string name="toast_no_develop">暂无数据</string>-->
+    <!--    <string name="toast_not_dev">暂无数据</string>-->
+
+    <string name="app_money_mark_plus_yuan">%1$s元</string>
+    <string name="app_money_mark_plus">¥%1$s元</string>
+    <string name="app_money_mark_plus4">¥%1$s</string>
+    <string name="app_money_mark_plus2">¥%1$s元/%2$s</string>
+    <string name="app_money_mark_plus3">%1$s元/%2$s</string>
+    <string name="app_money_mark_plus10">元/%1$s</string>
+    <string name="order_detail_num_plus">x%1$s</string>
+    <string name="order_detail_num_plus2">查看总预算（¥%1$s元）</string>
+    <string name="app_money_mark">¥</string>
+    <string name="app_money_mark2">工钱：¥</string>
+    <string name="app_money_mark4">辅料：¥</string>
+    <string name="app_money_mark_zhj">折后价：¥</string>
+    <!-- Toast -->
+    <string name="toast_mobile_empty">手机号码不能为空</string>
+    <string name="toast_mobile_error">手机号码格式错误</string>
+    <string name="toast_auth_code_error">验证码不正确</string>
+    <string name="toast_password_empty">密码不能为空</string>
+    <string name="toast_password_error">密码格式不正确</string>
+    <string name="toast_old_password_error">原密码错误</string>
+    <string name="toast_new_password_error">密码格式不正确</string>
+    <string name="toast_auth_code_empty">验证码不能为空</string>
+    <string name="toast_system_error">程序猿真正努力修复中&#8230;</string>
+    <string name="toast_confirm_password_empty">确认密码不能为空</string>
+    <string name="toast_confirm_password_error">两次密码不一致</string>
+    <string name="toast_img_code_error">图形验证码错误</string>
+    <string name="toast_img_code_empty">请输入图形验证码</string>
+    <string name="toast_forgot_success">重置成功</string>
+
+
+    <string name="evaluate_content_default">此用户没有填写评价</string>
+    <string name="toast_empty_goods_rating">请为综合评分进行评分</string>
+    <string name="toast_empty_deliver_rating">请为物流服务进行评分</string>
+    <string name="toast_empty_service_rating">请为服务态度进行评分</string>
+    <string name="dialog_delete_pic">确认删除该照片？</string>
+    <string name="dialog_cancel">取消</string>
+    <string name="dialog_confirm">确定</string>
+    <string name="tips">提示</string>
+
+
+    <!--登录授权-->
+    <string name="auth_login_cancel">取消授权登录</string>
+    <string name="auth_login_fail">授权登录失败，建议您稍后再试</string>
+    <string name="auth_login_refuse">拒绝授权登录</string>
+    <string name="local_uninstall_wechat_client">本地没有微信客户端</string>
+
+    <string name="pay_create_order_ing">正在创建订单...</string>
+    <string name="pay_create_order_fail">创建订单失败</string>
+    <string name="pay_result_success">支付成功</string>
+    <string name="pay_result_fail">支付失败</string>
+
+    <string name="toast_not_project_id">您当前尚未绑定工地，可在工地直播间选择工地</string>
+    <string name="toast_not_bind_tf">请联系客服绑定套房</string>
+    <string name="toast_not_bind_gd">您还没有绑定工地信息，请联系管理员！</string>
+    <string name="toast_contract_bind_tf">您还没有绑定套房，请联系管理员！</string>
+    <string name="toast_shop_copy">对不起，您的装修需求没有\n该列项，不能加入预算</string>
+    <string name="empty_site_zwrw">暂未开工~</string>
+    <string name="empty_site_zwgx">很抱歉，您当前没有在施工的工序~</string>
+    <!--<string name="empty_site_yjjg">恭喜您，工地已经竣工啦！\n多维家装感谢您的支持与选择，后续如有其它售后需求服务，可随时联系我们客服</string>-->
+    <string name="empty_site_yjjg">恭喜您，工地已经竣工啦~~</string>
+    <string name="toast_call_zxgj">现在未开放直接预约，请联系装修管家帮您预约。</string>
+
 </resources>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="toolbarHeight">40dp</dimen>
+    <dimen name="toolbarTextSize">18dp</dimen>
+    <dimen name="toolbarMarginTop">40dp</dimen>
+    <dimen name="divider_height">1dp</dimen>
+    <dimen name="bottom_qbd_height">70dp</dimen>
+    <dimen name="statusbar_view_height">0dp</dimen>
+    <dimen name="status_bar_height">0dp</dimen>
+    <dimen name="design_top_margin">-16dp</dimen>
+    <dimen name="item_height">60dp</dimen>
+    <dimen name="dp_42">42dp</dimen>
+    <dimen name="dp_80">80dp</dimen>
+    <dimen name="dp_124">124dp</dimen>
+    <dimen name="dp_200">200dp</dimen>
+    <dimen name="dp_100">100dp</dimen>
+    <dimen name="dp_70">70dp</dimen>
+    <dimen name="dp_10">10dp</dimen>
+    <dimen name="dp_2">2dp</dimen>
+    <dimen name="app_bar_height">240dp</dimen><!--180dp-->
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="dot_order_top">-10dp</dimen>
+    <dimen name="dot_order_right">-10dp</dimen>
+    <dimen name="division_line">0.5dp</dimen>
+
+    <dimen name="dimenPaddingMin">2.5dp</dimen>
+    <dimen name="dimenPaddingDiminutive">5dp</dimen>
+    <dimen name="dimenPaddingCommon">10dp</dimen>
+    <dimen name="dimenPaddingVertical">10dp</dimen>
+    <dimen name="dimenPaddingMiddle">12.5dp</dimen>
+    <dimen name="dimenPaddingHorizontal">15dp</dimen>
+    <dimen name="dimenPaddingBig">20dp</dimen>
+    <dimen name="dimenPaddingLarge">25dp</dimen>
+
+    <dimen name="toolbar_view_height">46dp</dimen>
+    <dimen name="home_card_view_radius">4dp</dimen>
+
+
+    <dimen name="textsize_small">12sp</dimen>
+    <dimen name="textsize_content">14sp</dimen>
+    <dimen name="textsize_titlesmall">16sp</dimen>
+    <dimen name="textsize_title">17sp</dimen>
+    <dimen name="textsize_titlelarge">19sp</dimen>
+    <dimen name="textsize_titlebar">20sp</dimen>
+
+    <dimen name="dimenTextMin">10sp</dimen>
+    <dimen name="dimenTextSmall">12sp</dimen>
+    <dimen name="dimenTextContent">14sp</dimen>
+    <dimen name="dimenTextTitleSmall">16sp</dimen>
+    <dimen name="dimenTextTitle">17sp</dimen>
+    <dimen name="dimenTextTitleLarge">19sp</dimen>
+    <dimen name="dimenTextTitleBar">20sp</dimen>
+    <dimen name="dimenTextEditText">14sp</dimen>
+
+    <dimen name="font_10">10sp</dimen>
+    <dimen name="font_11">11sp</dimen>
+    <dimen name="font_12">12sp</dimen>
+    <dimen name="font_13">13sp</dimen>
+    <dimen name="font_14">14sp</dimen>
+    <dimen name="font_15">15sp</dimen>
+    <dimen name="font_16">16sp</dimen>
+    <dimen name="font_17">17sp</dimen>
+    <dimen name="font_18">18sp</dimen>
+    <dimen name="font_19">19sp</dimen>
+    <dimen name="font_20">20sp</dimen>
+    <dimen name="font_48">48sp</dimen>
+    <dimen name="font_25">25sp</dimen>
+    <dimen name="font_42">42sp</dimen>
+    <dimen name="font_34">34sp</dimen>
+    <dimen name="font_30">30sp</dimen>
+    <dimen name="font_22">22sp</dimen>
+    <dimen name="font_24">24sp</dimen>
+    <dimen name="font_28">28sp</dimen>
+    <dimen name="dp_ten">10dp</dimen>
+
+    <!--虚线高度-->
+    <dimen name="shape_di_height">1.1dp</dimen>
+
+    <dimen name="right_jt_width">12dp</dimen>
+    <dimen name="right_jt_height">12dp</dimen>
+    <dimen name="height_banner_common">110dp</dimen>
+    <dimen name="ll_bottom_height">44dp</dimen>
+    <dimen name="ll_bottom_height2">58dp</dimen>
+    <dimen name="btn_bottom_height">34dp</dimen>
+    <dimen name="btn_bottom_height2">42dp</dimen>
+    <dimen name="btn_bottom_radius">17dp</dimen>
+    <dimen name="btn_bottom_radius2">21dp</dimen>
+    <dimen name="btn_bottom_margin_left">15dp</dimen>
+    <dimen name="btn_bottom_margin_right">15dp</dimen>
+    <dimen name="btn_bottom_text_size">15sp</dimen>
+    <dimen name="btn_bottom_text_size2">17sp</dimen>
+    <dimen name="dp_7">7dp</dimen>
+    <dimen name="dp_15">15dp</dimen>
+
+</resources>
